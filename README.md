@@ -16,7 +16,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/laridepaula/count.svg?"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=laridepaula.laridepaula&left_color=cornflowerblue&right_color=magenta"  />
 </div>
 
 ###
