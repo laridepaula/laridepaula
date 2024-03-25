@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">👋 Oi! Sou a Larissa de Paula, uma Dev Junior apaixonada por códigos e café ☕️. Explorando o mundo tech em busca de desafios empolgantes e aprendizado constante.<br><br>💻 Desenvolvendo e desvendando o universo da programação, enquanto transformo linhas de código em soluções criativas.<br><br>🚀 Vamos decolar juntos nessa jornada? Colaborações e ideias malucas sempre bem-vindas!<br><br>📫 Me encontre em meu playground digital! 💻</p>
+<p align="left">👋 Oi! Sou a Larissa de Paula, Desenvolvedora Fullstack com experiência em Angular, TypeScript, JavaScript, HTML, CSS, Bootstrap, Java, Spring Boot, Node.js, MySQL, Git, GitHub, e metodologias ágeis como Scrum e Kanban. 💻</p>
 
 ###
 
